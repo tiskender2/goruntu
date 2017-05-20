@@ -1,0 +1,9 @@
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\bin\Debug\goruntu.exe.config
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\bin\Debug\goruntu.exe
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\bin\Debug\goruntu.pdb
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.csprojResolveAssemblyReference.cache
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.Form1.resources
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.Properties.Resources.resources
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.csproj.GenerateResource.Cache
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.exe
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.pdb
